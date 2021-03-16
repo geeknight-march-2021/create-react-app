@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "geeknight-2021-react-scripts",
   "version": "4.0.3",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Geeknight March 2021 Custom Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/geeknight-march-2021/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",

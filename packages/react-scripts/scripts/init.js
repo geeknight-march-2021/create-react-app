@@ -366,6 +366,11 @@ module.exports = function (
 
   // Change displayed command to yarn instead of yarnpkg
   const displayedCommand = useYarn ? 'yarn' : 'npm';
+  console.log(chalk.red('VERY IMPORTANT:'));
+  console.log('This is a Custom CRA App to be used for Geeknight on 18th March 2021');
+  console.log('Don\'t use directly, go build your own');
+  console.log('https://www.thoughtworks.com/');
+  console.log();
 
   console.log();
   console.log(`Success! Created ${appName} at ${appPath}`);
