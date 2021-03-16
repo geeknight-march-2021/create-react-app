@@ -139,6 +139,7 @@ if (
     ownPath: resolveOwn('.'),
     ownNodeModules: resolveOwn('node_modules'),
     appTypeDeclarations: resolveOwn(`${templatePath}/src/react-app-env.d.ts`),
+    dllManifestPath: resolveApp('../common/build/commons-manifest.json'),
     ownTypeDeclarations: resolveOwn('lib/react-app.d.ts'),
   };
 }
