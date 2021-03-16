@@ -6,8 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h3>
+          Effective Webpacking for Micro Frontends
+        </h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
+          Custom Template built for Geeknight March 2021
         </p>
         <a
           className="App-link"
